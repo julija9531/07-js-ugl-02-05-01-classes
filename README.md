@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/raw9exwwkk843ky6/branch/main?svg=true)](https://ci.appveyor.com/project/julija9531/07-js-ugl-02-05-01-classes/branch/main)
